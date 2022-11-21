@@ -8,7 +8,7 @@
 [toc]
 
 
->文章会配合例子来讲解为什么要这么实现，尽我所能讲得粗俗易懂。有什么不理解或建议，欢迎下方评论。项目源码已经放到 [github](https://github.com/Sunny-lucking/howToBuildMyPromise  )，顺手点个star呗：https://github.com/Sunny-lucking/howToBuildMyPromise  
+>文章会配合例子来讲解为什么要这么实现，尽我所能讲得粗俗易懂。
 ## 1. 定义整体结构
 1. 先写出构造函数，将Promise向外暴露
 
@@ -984,8 +984,6 @@ all([p,2,3,p])
     }
 
 ```
-
->有什么不理解或建议，欢迎下方评论。项目源码已经放到github：https://github.com/Sunny-lucking/howToBuildMyPromise  顺手点个star呗
 
 
 去做一下题，看看是不是真的掌握了呢？
